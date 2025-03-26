@@ -7,5 +7,7 @@ public class Main {
         service.addTodo("Pull Request üben");
         service.addTodo("Konflikte lösen");
         service.printTodos();
+        System.out.println("Main läuft – removeTodo() ist bereit.");
+
     }
 }
