@@ -9,6 +9,7 @@ public class TodoService {
 
     public void addTodo(String todo) {
         todos.add(todo);
+    }
     public void removeTodo(String todo) {
         todos.remove(todo);
     }
